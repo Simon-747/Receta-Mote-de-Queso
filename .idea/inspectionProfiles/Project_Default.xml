@@ -1,0 +1,20 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="agent-detector" />
+          <option value="anyio" />
+          <option value="detect-installer" />
+          <option value="fastapi-cloud-cli" />
+          <option value="rich-toolkit" />
+          <option value="sentry-sdk" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="uvloop" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
